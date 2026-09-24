@@ -814,6 +814,7 @@ extern int __overflow (FILE *, int);
 
 # 3 "demo-a.c"
 int main() {
-    int a = 5 + 3;
-    return a;
+int x = 5, y = 3;
+int a = x + y;
+return a;
 }
