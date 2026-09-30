@@ -812,9 +812,9 @@ extern int __overflow (FILE *, int);
 # 2 "demo-a.c" 2
 
 
-# 3 "demo-a.c"
+
+# 4 "demo-a.c"
 int main() {
-int b;
-int a = 5 + b;
+int a = 5 + 12;
 return a;
 }

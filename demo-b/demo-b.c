@@ -3,7 +3,7 @@
 int main() {
 
 int x = 10;
-if (x > 16) { x=8;} // Impossible condition
+if (x > 15) { x=8;} // Impossible condition
 
 return 15;
 }

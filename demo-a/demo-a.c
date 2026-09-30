@@ -1,7 +1,7 @@
 #include <stdio.h>
 
+
 int main() {
-int b;
-int a = 5 + b;
+int a = 5 + 12;
 return a;
 }
